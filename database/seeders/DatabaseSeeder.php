@@ -23,8 +23,8 @@ class DatabaseSeeder extends Seeder
             'is_admin' => true,
         ]);
         User::factory()->create([
-            'name' => 'Abriansyah Adam',
-            'email' => 'giveonaldo@gmail.com',
+            'name' => 'Yoga',
+            'email' => 'm.yoga.ft21@mail.umy.ac.id',
             'is_admin' => true,
         ]);
 
